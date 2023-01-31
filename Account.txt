@@ -1,0 +1,11 @@
+alice@gmail.com|1234
+bobby@yahoo.com|456
+david@gmail.com|0000
+emily@gmail.com|111
+fiona270@yahoo.com|88888
+genta_159@gmail.com|55555
+hyoko_masumi139@yahoo.com|567
+isui13196@yahoo.com|2222
+dututinh39@gmail.com|999
+dututinh@gmail.com|12345
+dututinh123@gmail.com|123
